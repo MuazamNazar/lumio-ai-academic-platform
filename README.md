@@ -34,7 +34,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * Student collaboration recommendations
 * Team synchronization requests
 
----
+![img_1.png](img_1.png)
 
 ### 💬 AI Academic Assistant (RAG-Based)
 
@@ -43,7 +43,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * Context-aware academic responses
 * Knowledge retrieval from academic resources
 
----
+![img_2.png](img_2.png)
 
 ### 📋 Collaborative Workspace
 
@@ -52,7 +52,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * Priority management
 * Deadlines and team activity monitoring
 
----
+![img_3.png](img_3.png)
 
 ### 📝 AI Meeting Intelligence
 
@@ -61,7 +61,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * Action item generation
 * Task extraction from discussions
 
----
+![img_4.png](img_4.png)
 
 ### 📚 Smart Knowledge Management
 
@@ -70,7 +70,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * AI-generated summaries
 * Version tracking
 
----
+![img_5.png](img_5.png)---
 
 ### 📊 Academic Analytics & Prediction
 
@@ -80,7 +80,7 @@ The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), rec
 * Free-rider detection
 * Risk identification and intervention recommendations
 
----
+![img_6.png](img_6.png)
 
 # 🧠 Artificial Intelligence Components
 
@@ -92,7 +92,6 @@ Lumio integrates multiple AI-driven capabilities:
 * Predictive engagement analysis
 * Natural Language Processing
 
----
 
 # 🏗️ System Architecture
 
